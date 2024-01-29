@@ -29,7 +29,6 @@ _________________________________________________________
 
 [commands](https://www.mediafire.com/file/oizliijdbttpv9q/comando-para-mobox.txt/file)
 
-* Or down here they are too 
 ```
 curl -O https://cdn.discordapp.com/attachments/1120450661050499083/1201400820873302086/external && chmod +x external 
 ```
@@ -54,4 +53,4 @@ _________________________________________________________
 
 # MicroSD
 
-![image](https://cdn.discordapp.com/attachments/1120450661050499082/1201588320820543639/Screenshot_20240129-100229_Fotos.png?ex=65ca5d54&is=65b7e854&hm=d32a907c55249581122ef350323c6f142cc4eb18dae19553783a825322eaaea3&)
+![image](https://cdn.discordapp.com/attachments/1120450661050499083/1201588320820543639/Screenshot_20240129-100229_Fotos.png?ex=65ca5d54&is=65b7e854&hm=d32a907c55249581122ef350323c6f142cc4eb18dae19553783a825322eaaea3&)
