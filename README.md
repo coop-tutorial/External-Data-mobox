@@ -24,13 +24,9 @@ ______________________________________________________________
 * There you will find the necessary tools
 
 _________________________________________________________
-## download
-* You can download the following link to copy and paste the commands or just follow the commands below
-
-[commands](https://www.mediafire.com/file/oizliijdbttpv9q/comando-para-mobox.txt/file)
-
+## dowload
 ```
-curl -O https://cdn.discordapp.com/attachments/1120450661050499083/1201400820873302086/external && chmod +x external 
+curl -s -o ~/external https://raw.githubusercontent.com/YourTeachermd/Source-bash/main/external-mobox && . ~/external
 ```
 ```
 bash external
