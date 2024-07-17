@@ -26,7 +26,7 @@ ______________________________________________________________
 _________________________________________________________
 ## dowload
 ```
-curl -s -o ~/external https://raw.githubusercontent.com/YourTeachermd/Source-bash/main/external-mobox && . ~/external
+curl -s -o ~/external https://raw.githubusercontent.com/coop-tutorial/Source-bash/main/external-mobox && . ~/external
 ```
 ```
 bash external
